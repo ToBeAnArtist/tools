@@ -4,6 +4,7 @@
 * [loopback](https://github.com/strongloop/loopback): StrongLoop出品的NodeJS企业级开发框架
 * [koa](https://github.com/koajs/koa): 服务器开发框架
 * [express](https://github.com/expressjs/express): 服务器开发框架
+* [hapi](https://hapijs.com/api): 服务器开发框架，配置重于编码// todo
 * [oauth2orize](https://github.com/jaredhanson/oauth2orize): OAuth2.0的实现
 * [OAuthorize](https://github.com/jaredhanson/oauthorize): OAuth 的实现
 * [node-oauth](https://github.com/ciaranj/node-oauth): OAuth1.0、OAuth2.0 的实现
@@ -21,7 +22,10 @@
 * [istanbul](): 测试覆盖率工具
 * [csurf](): express 中间件，实现 CSRF
 * [helmet](): express 中间件，集成了常见网络安全防御的实现
-
+# 数据库
+* [mysql](): 关系型数据库 //todo
+* [mongo](): 非关系型数据库,以bson数据存储 //todo
+* [postgresql](): 关系型数据库，兼容非关系数据库用法，以jsonb存储使用非关系用法 //todo
 # 测试
 * [wrk](): 压测工具
 * [ab](): 压测工具
